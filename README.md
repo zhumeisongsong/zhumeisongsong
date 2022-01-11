@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning [Machine Learning](https://www.bilibili.com/video/BV13U4y1N7Uo)
+- 🌱 I’m currently learning [Machine Learning](https://www.bilibili.com/video/BV13U4y1N7Uo) English:https://c.d2l.ai/
 - 🔭 I’m currently working on [atrae](https://atrae.co.jp/)
 - 👯 I’m looking to collaborate on web image processing tool chain
   -  https://www.npmjs.com/package/react-url-image-downloader
