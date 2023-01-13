@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning [Machine Learning](https://www.bilibili.com/video/BV13U4y1N7Uo) English:https://c.d2l.ai/
-- 🔭 I’m currently working on [atrae](https://atrae.co.jp/)
+- 🥇 Software engineer from 2023, not only front-end engineer any more.
+- - 🔭 Working on [atrae](https://atrae.co.jp/) from 2021.12.
+- 🌱 Currently diving deep with nesjs and Nx monorepo.
 - 👯 I’m looking to collaborate on web image processing tool chain
   -  https://www.npmjs.com/package/react-url-image-downloader
   -  https://www.npmjs.com/package/react-url-image-blurry-lazy-load
