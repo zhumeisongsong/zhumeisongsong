@@ -8,5 +8,9 @@
 - [CV](https://github.com/zhumeisongsong/cv)
 - [Blog](https://github.com/zhumeisongsong/blog)
 
+Highlight:
+
+- [Strategic Design of DDD](https://zhumeisongsong.github.io/blog/posts/2024-10-19-DDD2)
+
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/zhumeisongsong)](https://leetcode.com/zhumeisongsong) //>
 
