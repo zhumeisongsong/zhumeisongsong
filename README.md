@@ -6,7 +6,7 @@
 - 🌈 Dreams of becoming an independent developer whose product has millions of users.
 - ⚡ Fun fact: Always be crazy when doing tasks about image performance optimization.
 - [CV](https://github.com/zhumeisongsong/cv)
-- [Blog](https://github.com/zhumeisongsong/blog)
+- [Song's Blog](https://zhumeisongsong.github.io/blog/)
 
 Highlight:
 
