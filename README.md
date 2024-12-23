@@ -6,10 +6,17 @@
 - 🌈 Dreams of becoming an independent developer whose product has millions of users.
 - ⚡ Fun fact: Always be crazy when doing tasks about image performance optimization.
 
-Highlight:
+Engineering Experience:
+- [Song's CV](https://zhumeisongsong.github.io/cv/)
+- [Song's CV (Japanese)](https://zhumeisongsong.github.io/cv/ja)
+
+My Products:
+- [Index]((https://zhumeisongsong.github.io/)
+
+Learn & Think:
 - [Song's Blog](https://zhumeisongsong.github.io/blog/)
 
-Packages:
+Some NPM Packages from Me:
 - [@zhumeisong/git-cz-config](https://www.npmjs.com/package/@zhumeisong/git-cz-config)
 - [@zhumeisong/semantic-release-config](https://www.npmjs.com/package/@zhumeisong/semantic-release-config)
 
