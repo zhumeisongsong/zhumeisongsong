@@ -11,7 +11,7 @@ Engineering Experience:
 - [Song's CV (Japanese)](https://zhumeisongsong.github.io/cv/ja)
 
 My Products:
-- [Index]((https://zhumeisongsong.github.io/)
+- [Index](https://zhumeisongsong.github.io/)
 
 Learn & Think:
 - [Song's Blog](https://zhumeisongsong.github.io/blog/)
