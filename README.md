@@ -10,13 +10,13 @@ Engineering Experience:
 - [Song's CV](https://zhumeisongsong.github.io/cv/)
 - [Song's CV (Japanese)](https://zhumeisongsong.github.io/cv/ja)
 
-My Products:
+Products:
 - [Index](https://zhumeisongsong.github.io/)
 
 Learn & Think:
 - [Song's Blog](https://zhumeisongsong.github.io/blog/)
 
-Some NPM Packages from Me:
+Some NPM Packages:
 - [@zhumeisong/git-cz-config](https://www.npmjs.com/package/@zhumeisong/git-cz-config)
 - [@zhumeisong/semantic-release-config](https://www.npmjs.com/package/@zhumeisong/semantic-release-config)
 
