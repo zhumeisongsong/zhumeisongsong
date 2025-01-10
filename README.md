@@ -6,10 +6,6 @@
 - 🌈 Dreams of becoming an independent developer whose product has millions of users.
 - ⚡ Fun fact: Always be crazy when doing tasks about image performance optimization.
 
-Engineering Experience:
-- [Song's CV](https://zhumeisongsong.github.io/cv/)
-- [Song's CV (Japanese)](https://zhumeisongsong.github.io/cv/ja)
-
 Products:
 - [Daily Delight](https://zhumeisongsong.github.io/daily-delight.html)
 
