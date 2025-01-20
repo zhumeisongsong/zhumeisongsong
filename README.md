@@ -6,12 +6,8 @@
 - 🌈 Dreams of becoming an independent developer whose product has millions of users.
 - ⚡ Fun fact: Always be crazy when doing tasks about image performance optimization.
 
-Products:
-- [Daily Delight](https://zhumeisongsong.github.io/daily-delight.html)
-
 Learn & Think:
 - [Song's Blog](https://zhumeisongsong.github.io/blog/)
-
 
 My Clean Code Practice:
 - [Key Principles of Clean Code](https://zhumeisongsong.github.io/blog/posts/2024-12-22-clean-code)
