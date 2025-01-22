@@ -6,8 +6,13 @@
 - 🌈 Dreams of becoming an independent developer whose product has millions of users.
 - ⚡ Fun fact: Always be crazy when doing tasks about image performance optimization.
 
+CV:
+- [Song's CV (EN)](https://github.com/zhumeisongsong/cv)
+- [Song's CV (JA)](https://zhumeisongsong.github.io/cv/ja.html)
+
 Learn & Think:
 - [Song's Blog](https://zhumeisongsong.github.io/blog/)
+
 
 My Clean Code Practice:
 - [Key Principles of Clean Code](https://zhumeisongsong.github.io/blog/posts/2024-12-22-clean-code)
