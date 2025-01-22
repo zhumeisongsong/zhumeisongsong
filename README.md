@@ -13,7 +13,6 @@ CV:
 Learn & Think:
 - [Song's Blog](https://zhumeisongsong.github.io/blog/)
 
-
 My Clean Code Practice:
 - [Key Principles of Clean Code](https://zhumeisongsong.github.io/blog/posts/2024-12-22-clean-code)
 
@@ -25,7 +24,7 @@ Some NPM Packages:
 - [@zhumeisong/semantic-release-config](https://www.npmjs.com/package/@zhumeisong/semantic-release-config)
 
 Basic Practice:
-- [![Leetcode Stats](https://leetcard.jacoblin.cool/zhumeisongsong)](https://leetcode.com/zhumeisongsong)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/zhumeisongsong)](https://leetcode.com/zhumeisongsong)
 
 
 
