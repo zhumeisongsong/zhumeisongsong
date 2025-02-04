@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Always be crazy when doing tasks about image performance optimization.
 
 CV:
-- [Song's CV (EN)](https://github.com/zhumeisongsong/cv)
+- [Song's CV (EN)](https://zhumeisongsong.github.io/cv/)
 - [Song's CV (JA)](https://zhumeisongsong.github.io/cv/ja.html)
 
 Learn & Think:
