@@ -23,9 +23,9 @@ Some NPM Packages:
 - [@zhumeisong/git-cz-config](https://www.npmjs.com/package/@zhumeisong/git-cz-config)
 - [@zhumeisong/semantic-release-config](https://www.npmjs.com/package/@zhumeisong/semantic-release-config)
 
-Basic Practice:
+<!--Basic Practice:-->
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/zhumeisongsong)](https://leetcode.com/zhumeisongsong)
+<!--[![Leetcode Stats](https://leetcard.jacoblin.cool/zhumeisongsong)](https://leetcode.com/zhumeisongsong)-->
 
 
 
